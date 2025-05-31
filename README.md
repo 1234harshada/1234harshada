@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_items_boosted&w=740" alt="Banner" style="width:400px"/>
+</p>
 <h1 align="center">Hi ,👋 I'm Harshada Kishorilal Rundhey</h1>
 <h3 align="center">A passionate Front-End Developer | MCA Graduate | Full Stack Learner</h3>
 
